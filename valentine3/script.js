@@ -16,7 +16,7 @@ const CONFIG = {
     collageTitle: "My Beautiful You",
     collageSubtitle: "Sejak kamu hadir, hal sederhana pun terasa istimewa. Happy Valentine, my favorite person. 💕",
     nextCollageButton: "Satu halaman lagi… ",
-    finalTitle: "Happy Valentine, My Love 💞",
+    finalTitle: "Happy Valentine, My Princes 💞",
     finalMessage: `Makasih ya sudah hadir dan bikin hariku selalu terasa cukup. Kamu adalah alasan kenapa senyum itu mudah muncul. Semoga hari harimu selalu penuh kehangatan dan kebahagiaan. Aku selalu ada untukmu. Happy Valentine 💕`,
     restartButton: "Restart ",
     copyButton: "Copy Message ",
@@ -367,3 +367,4 @@ document.addEventListener('DOMContentLoaded', () => {
     new ParticleSystem();
     initMouseTrail();
 });
+
